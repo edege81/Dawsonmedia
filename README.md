@@ -1,7 +1,5 @@
 13
-
 |||
-
 [B][COLOR yellow]Welcome to the Dawson Media[/COLOR][/B]
 
 [COLOR red]Updates!![/COLOR]
